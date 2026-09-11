@@ -1,0 +1,6 @@
+{
+  "name": "Synapse",
+  "description": "Neuroscience learning and cognitive brain training with objective tracking and neurotech integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
